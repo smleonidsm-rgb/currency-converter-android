@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Coin ring -->
+    <path
+        android:fillColor="#F2B705"
+        android:pathData="M54,24 A30,30 0 1,1 53.99,24 Z" />
+    <path
+        android:fillColor="#0A0F1E"
+        android:pathData="M54,32 A22,22 0 1,1 53.99,32 Z" />
+    <!-- Center coin dot -->
+    <path
+        android:fillColor="#F2B705"
+        android:pathData="M54,44 A10,10 0 1,1 53.99,44 Z" />
+    <!-- Small exchange arrows either side of the coin -->
+    <path
+        android:fillColor="#F2B705"
+        android:pathData="M26,54 L34,48 L34,60 Z" />
+    <path
+        android:fillColor="#F2B705"
+        android:pathData="M82,54 L74,48 L74,60 Z" />
+</vector>
